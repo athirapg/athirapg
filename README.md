@@ -71,6 +71,7 @@ Mahathma Gandhi University, 2018-2020
 ## 📚 Publications
 - Elucidating the phosphoregulatory network of predominant phosphosite in AXL kinase: an integrative bioinformatic approach([link](https://link.springer.com/article/10.1007/s42485-024-00147-7))
 - Exploring the phospho-landscape of NEK6 kinase: systematic annotation of phosphosites and their implications as biomarkers in carcinogenesis([link](https://link.springer.com/article/10.1007/s42485-024-00146-8))
+- Tyr352 as a Predominant Phosphosite in the Understudied Kinase and Molecular Target, HIPK1: Implications for Cancer Therapy([link](https://www.liebertpub.com/doi/abs/10.1089/omi.2023.0244))
 - A global phosphosite-correlated network map of Thousand And One Kinase 1 (TAOK1)([link](https://www.sciencedirect.com/science/article/abs/pii/S1357272524000499?via%3Dihub))
 
 ## 📬 Connect with Me
